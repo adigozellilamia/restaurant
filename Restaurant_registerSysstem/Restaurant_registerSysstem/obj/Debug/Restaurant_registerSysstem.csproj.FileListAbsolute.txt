@@ -1,0 +1,16 @@
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\bin\Debug\Restaurant_registerSysstem.exe.config
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\bin\Debug\Restaurant_registerSysstem.exe
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\bin\Debug\Restaurant_registerSysstem.pdb
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.csprojAssemblyReference.cache
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Admin.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Restaurant.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Login.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Menecer.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Menu.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Orders.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Properties.Resources.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.Register.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.csproj.GenerateResource.cache
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.csproj.CoreCompileInputs.cache
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.exe
+c:\users\lamiye adigozelli\source\repos\Restaurant_registerSysstem\Restaurant_registerSysstem\obj\Debug\Restaurant_registerSysstem.pdb
